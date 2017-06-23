@@ -1,0 +1,9 @@
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\bin\Debug\netcoreapp1.1\WebApiCaller.deps.json
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\bin\Debug\netcoreapp1.1\WebApiCaller.runtimeconfig.json
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\bin\Debug\netcoreapp1.1\WebApiCaller.runtimeconfig.dev.json
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\bin\Debug\netcoreapp1.1\WebApiCaller.dll
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\bin\Debug\netcoreapp1.1\WebApiCaller.pdb
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\obj\Debug\netcoreapp1.1\WebApiCaller.csprojResolveAssemblyReference.cache
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\obj\Debug\netcoreapp1.1\WebApiCaller.AssemblyInfo.cs
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\obj\Debug\netcoreapp1.1\WebApiCaller.dll
+c:\users\u6039635\documents\visual studio 2017\Projects\WebApiCaller\WebApiCaller\obj\Debug\netcoreapp1.1\WebApiCaller.pdb
